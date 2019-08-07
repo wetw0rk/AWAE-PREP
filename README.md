@@ -21,11 +21,10 @@ The following table shows notes, courses, challenges, and tutorials taken in pre
 
 ## Post Prep Breakdown
 
-Having completed the course below, is everything done in regards to prep before the exam. If you have not taken the AWAE and are considering taking it definitely do everything shown above, and read the source! I have provided README's in each directory and source code so you can see what I did. I cannot share extra miles .... so those will not be within the repository. Best of luck!
+Having completed the course, below is everything done in regards to prep before the exam. If you have not taken the AWAE and are considering taking it definitely do everything shown above, and read the source! I have provided README's in each directory and source code so you can see what I did. I cannot share extra miles .... so those will not be within the repository. Best of luck!
 
 - Complete all extra miles! I know some are harder than others but push through (one took me 8 days alone).
 - Be comfortable using every debugger shown within the course.
-- Be comfortable using all debuggers used throughout the course work.
 - Understand Object Oriented Languages taught throughout the course. No need to be a master in each language, but be able to code something fast using existing libs.
 - Be comfortable crafting a full POC (as done throughout the entire course)
 - Look for vulnerabilities ;)
