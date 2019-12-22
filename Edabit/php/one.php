@@ -12,11 +12,8 @@ function lessThanOrEqualToZero($num)
   return false;
 }
 
-$r = lessThanOrEqualToZero(5);
+$r = lessThanOrEqualToZero($argv[0]);
 
-if ($r == true)
-  echo("TRUE\n");
-else
-  echo("FALSE\n");
+var_dump( $r );
 
 ?>
