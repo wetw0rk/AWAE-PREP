@@ -1,6 +1,11 @@
 
 <?php
 
+/*
+Find mean of a array containing more than 5 int values supplied into a function
+which returns 2 decimal values.
+*/
+
 function mean($arr)
 {
   return round((array_sum($arr) / count($arr)), 2);
