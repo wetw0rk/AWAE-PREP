@@ -31,6 +31,10 @@ Having completed the course, below is everything done in regards to prep before 
 
 This may not seem like much, but it's what I did for prep. My best advice is DO NOT OVERTHINK things and don't rush through it. It took me 2 attempts when it should have taken one, I was jumping around not documenting enough what I was trying (It's easy to create your own rabbit holes...). Slow down you have 48 hours!
 
+## Report prep
+
+[Offensive Security Exam Report Template in Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown#available-templates) offers two templates for the OSWE, so we can prepare the common sections before the exam.
+
 ## Community Contributions & Enhancements
 
 If you find a new tutorial, challenge, or improve one of the exploits/payloads feel free to submit a pull request! Since Offsec has recently updated the course I may take it at a later date and upload some new challenges myself.
