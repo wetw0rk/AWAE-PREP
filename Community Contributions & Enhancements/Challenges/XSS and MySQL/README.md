@@ -12,7 +12,7 @@ Change the following 3 things in the script according to your env
 ```python
 attackerIP      =   "192.168.xx.xx"  # IP to start HTTP server on
 attackerPort    =   8082            # Port to start HTTP server on to catch cookie
-victimIP        =   "192.168.xx.xx"   # IP of challange
+victimIP        =   "192.168.xx.xx"   # IP of challenge
 ```
 
 Then simply run and you'll get the results
