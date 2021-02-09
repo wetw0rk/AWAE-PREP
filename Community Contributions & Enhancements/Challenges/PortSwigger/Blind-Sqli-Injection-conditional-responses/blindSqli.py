@@ -1,3 +1,8 @@
+#
+# Exploit Title       : Practicing Boolean based sqli multithreaded exploit
+# Author              : OutHackThem
+# Vulnerable Software : https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses
+#
 import  requests
 import  urllib3
 import  string
